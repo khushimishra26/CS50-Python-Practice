@@ -29,7 +29,8 @@ while i!=0:
 
 #for loop
 for j in range(3,10,2):
-    print("I am a for-loop")    #prints this statement thrice
+    print("#", end="")    #prints this statement when the # signs will be on a single line.
+print()      
 
 
 
