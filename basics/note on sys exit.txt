@@ -1,0 +1,2 @@
+Sys library provides an exit(), through which one can exit the program as needed.
+sys.exit([any integer]) can be used to exit prematurely from a program. It is the equivalent of return 0 or any other int (returning from main()) in C/C++.
